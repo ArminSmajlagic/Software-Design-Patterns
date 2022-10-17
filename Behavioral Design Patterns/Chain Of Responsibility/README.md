@@ -37,3 +37,5 @@ But there is no guarantee that the request is going to be handeled since there i
   - initiates the request to a Concrete Handler object on the chain
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196161863-08695a12-53fa-4247-a24d-4d6108ecbcca.jpeg)
