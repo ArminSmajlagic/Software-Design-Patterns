@@ -44,3 +44,5 @@ Client objects are responsible for passing extrinsic state to the flyweight when
   - computes or stores the extrinsic state of flyweight(s)
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196161313-4a5b1411-7a65-4ca5-a763-685ab9dccdae.jpeg)
