@@ -1,5 +1,3 @@
-C:\Users\pc\Desktop\DesignPatterns\Behavioral Design Patterns\State
-
 # State Design Pattern
 
 ### Definition
