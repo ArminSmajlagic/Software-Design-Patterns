@@ -1,5 +1,3 @@
-C:\Users\pc\Desktop\DesignPatterns\Behavioral Design Patterns\Chain Of Responsibility
-
 # Chain Of Responsibility Design Pattern
 
 ### Definition
