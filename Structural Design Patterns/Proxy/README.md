@@ -34,3 +34,6 @@ One reason for controlling access to an object is to defer the full cost of its 
   - defines the real object that the proxy represents
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196161472-da3f9c37-76de-4d1c-b59a-4e767199bfc5.jpeg)
+
