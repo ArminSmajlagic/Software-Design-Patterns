@@ -25,3 +25,5 @@ The main idea is that, at any given moment, there’s a finite number of states 
   - each subclass implements a behavior associated with a state of the Context
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196162409-2d8adf13-11ce-482d-a4f9-88ac76759b71.jpeg)
