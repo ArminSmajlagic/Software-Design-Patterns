@@ -1,5 +1,3 @@
-C:\Users\pc\Desktop\DesignPatterns\Behavioral Design Patterns\Template Method
-
 # Template Method Design Pattern
 
 ### Definition
@@ -25,3 +23,5 @@ This can be an abstract class containing the template method and definitions of 
   - implements the primitive operations to carry out subclass-specificsteps of the algorithm
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196162627-2a3601cf-5c56-4217-be9d-b430702ff243.jpeg)
