@@ -33,3 +33,5 @@ That is why we have caretaker that is responsible for the memento's safekeeping.
   - never operates on or examines the contents of a memento
 
 ### UML
+![UML](https://user-images.githubusercontent.com/45321513/196162209-2aea87ae-7d8c-486f-b9c3-efaeb3f96374.jpeg)
+
