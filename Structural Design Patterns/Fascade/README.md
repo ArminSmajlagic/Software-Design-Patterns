@@ -35,5 +35,10 @@ One way to achieve this goal is to introduce a facade object that provides a sin
 
 ### UML
 
+![UML](https://user-images.githubusercontent.com/45321513/196161375-fe034528-eb33-4edb-a180-effe1d2afaa7.jpeg)
 
 ### Compiler Fascade Example
+
+Here compiler it self is an fascade that protects the internal components and delegates the requests.
+
+![compiler_fascade](https://user-images.githubusercontent.com/45321513/196161401-a4bf37d4-7298-457b-a2cb-c9bb317a9466.jpeg)
