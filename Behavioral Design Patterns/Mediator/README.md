@@ -33,3 +33,6 @@ The objects only know the mediator, thereby reducing the number of interconnecti
   - each colleague communicates with its mediator whenever it would have otherwise communicated with another colleague
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196162222-dd92c560-a10f-46e3-be5a-48d07838b1af.jpeg)
+
