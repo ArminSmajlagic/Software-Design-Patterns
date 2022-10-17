@@ -25,3 +25,5 @@ With this we change the place of object creation and we solve the problem of tig
   - overrides the factory method to return an instance of a Concrete Product
 
 ### UML
+
+![uml](https://user-images.githubusercontent.com/45321513/196160660-dd968c8a-74ad-4982-a1b8-58c49f640470.jpeg)
