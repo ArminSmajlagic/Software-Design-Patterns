@@ -27,3 +27,5 @@ That is why we use adapter.
   - adapts the interface of Adaptee to the Target interface (adapter is responsible for functionality the adapted class)
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196160915-b44eb731-bdc1-4cfe-817e-16725d314ef5.jpeg)
