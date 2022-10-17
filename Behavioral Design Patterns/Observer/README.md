@@ -1,5 +1,3 @@
-C:\Users\pc\Desktop\DesignPatterns\Behavioral Design Patterns\Observer
-
 # Observer Design Pattern (AKA. Dependents, Publish-Subscribe)
 
 ### Definition
