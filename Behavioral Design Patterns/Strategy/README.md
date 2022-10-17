@@ -1,5 +1,3 @@
-C:\Users\pc\Desktop\DesignPatterns\Behavioral Design Patterns\Strategy
-
 # Strategy Design Pattern (AKA. Policy)
 
 ### Definition
@@ -28,3 +26,5 @@ The Strategy pattern suggests that you take a class that does something specific
   - may define an interface that lets Strategy access its data
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196162587-b09286a1-8818-49fe-9d21-ef6f8572f9f4.jpeg)
