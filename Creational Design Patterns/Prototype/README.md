@@ -24,3 +24,5 @@ Clone is the simplest approach to implement a prototype pattern, but it is not t
   - creates a new object by asking a prototype to clone itself
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196160752-e9a57880-c659-48da-809b-c750d1cf71c6.jpeg)
