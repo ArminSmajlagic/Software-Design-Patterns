@@ -37,3 +37,5 @@ Step 5 : Concrete builder creates the object part by part and holds it
 Step 6 : Client calls get result method of concrete builder to give him the final product
 
 ### UML
+
+![uml](https://user-images.githubusercontent.com/45321513/196160517-65692f2d-797a-4698-a0d7-387fda8f6d10.jpeg)
