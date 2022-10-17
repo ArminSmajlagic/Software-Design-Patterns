@@ -31,3 +31,6 @@ The original object that had to perform the behavior is now passed to one of the
   - may either be a composite (using Composit pattern) or a collection such as a list or a set
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196162719-11be2cad-7c57-4185-82c5-11c569f634ea.jpeg)
+
