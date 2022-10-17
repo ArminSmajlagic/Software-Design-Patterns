@@ -26,3 +26,5 @@ Transparency lets you nest decorators recursively, and allowing an unlimited num
   - adds responsibilities to the component
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196161169-46e981d9-9fce-4f8e-b02a-15ea43ce9229.jpeg)
