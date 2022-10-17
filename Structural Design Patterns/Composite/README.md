@@ -32,3 +32,5 @@ We achive this by using interface that allows treating complex and primitive obj
   - manipulates objects in the composition through the Component interface
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196161112-f158b295-f40f-4ee3-a1d8-0ea08c3db757.jpeg)
