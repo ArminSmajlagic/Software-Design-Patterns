@@ -15,9 +15,7 @@ Patterns are not algorithms because both concepts describe typical solutions to 
 While an algorithm always defines a clear set of actions that can achieve some goal, a pattern is a more high-level description of a solution. 
 The code of the same pattern applied to two different programs may be different depending on the domain and the context that the given program is used for.
 
-
-In this project i will try to describe the purpose and usage of each design pattern and implement it.
-
+In this project i will try to describe the purpose and usage of each design pattern, offer visual representation with UML and implement it in C#.
 
 ### What kindes of design patterns are there?
 
@@ -25,7 +23,7 @@ Design patterns differ by their complexity, level of detail and scale of applica
 
 All patterns can be categorized by their intent(solution that they provide for a given problem) in the following categories:
 
-- Reational patterns 
+- Creational patterns 
   - they provide object creation mechanisms that increase flexibility and reuse of existing code
 
 - Structural patterns 
@@ -33,3 +31,5 @@ All patterns can be categorized by their intent(solution that they provide for a
 
 - Behavioral patterns 
   - they take care of effective communication and the assignment of responsibilities between objects
+  
+  Author: Armin Smajlagic
