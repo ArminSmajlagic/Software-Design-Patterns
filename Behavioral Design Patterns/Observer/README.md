@@ -42,3 +42,5 @@ Any number of observers can subscribe to receive notifications.
   - implements the Observer updating interface to keep its state consistent with the subject's
 
 ### UML
+![UML](https://user-images.githubusercontent.com/45321513/196162377-42ecb3a4-98e6-4e2e-a43d-a6c7ee3b90b2.jpeg)
+
