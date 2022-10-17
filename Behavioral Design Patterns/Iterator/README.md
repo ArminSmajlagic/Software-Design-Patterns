@@ -1,5 +1,3 @@
-C:\Users\pc\Desktop\DesignPatterns\Behavioral Design Patterns\Iterator
-
 # Iterator Design Pattern (AKA. Cursor)
 
 ### Definition
@@ -38,3 +36,6 @@ But it can support operations such as Previous Element (moves iterator a step ba
   - implements the Iterator creation interface to return an instance of the proper Concrete Iterator
 
 ### UML
+
+![UML](https://user-images.githubusercontent.com/45321513/196162048-b494cff5-61cd-4407-81de-b5b1f76aa943.jpeg)
+
